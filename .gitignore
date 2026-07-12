@@ -3,3 +3,9 @@
 \modify.py
 /assignments/archive
 \docs
+\venv
+week7/files/.env
+week7/files/.env.example
+assignments/denoising_autoencoder_model.keras
+assignments/denoising_results.png
+assignments/loss_curve.png
